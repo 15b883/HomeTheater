@@ -1,6 +1,6 @@
 # 分享阿里云盘资源
 
-
+## [科幻系列](./科幻系列)
 
 ## 漫威宇宙
 
@@ -64,21 +64,6 @@
 | 永恒族 REMUX            | [https://www.aliyundrive.com/s/55mvqL9evc7](https://www.aliyundrive.com/s/55mvqL9evc7) | 49.98 GB |
 | 黑寡妇 4K REMUX         | [https://www.aliyundrive.com/s/2bf7KSw5pAD](https://www.aliyundrive.com/s/2bf7KSw5pAD) | 55.88 GB |
 | 奇异博士 4K REMUX       | [https://www.aliyundrive.com/s/9HrHE6UQcyC](https://www.aliyundrive.com/s/9HrHE6UQcyC) | 55.03 GB |
-
-## 科幻系列
-
-| 名称                                        | 链接                                                         | 大小     |
-| ------------------------------------------- | ------------------------------------------------------------ | -------- |
-| 星际穿越 (2014) 4K REMUX                    | [https://www.aliyundrive.com/s/hhcR29JP6FU](https://www.aliyundrive.com/s/hhcR29JP6FU) | 77.81 GB |
-| 第九区 4K原盘REMUX [HDR] 4K REMUX           | [https://www.aliyundrive.com/s/C64aQ3avg6n](https://www.aliyundrive.com/s/C64aQ3avg6n) | 41.18 GB |
-| 第五元素 4K REMUX                           | [https://www.aliyundrive.com/s/5bWaHFo8dka](https://www.aliyundrive.com/s/5bWaHFo8dka) | 85.04 GB |
-| 信条 4K REMUX                               | [https://www.aliyundrive.com/s/AGLBrZVsoKj](https://www.aliyundrive.com/s/AGLBrZVsoKj) | 76.41 GB |
-| 环太平洋 4K REMUX（2013） 4K REMUX          | [https://www.aliyundrive.com/s/Qi2Rpkj8jPq](https://www.aliyundrive.com/s/Qi2Rpkj8jPq) | 65.56 GB |
-| 环太平洋：雷霆再起4K REMUX（2018） 4K REMUX | [https://www.aliyundrive.com/s/atLg7kwE6nk](https://www.aliyundrive.com/s/atLg7kwE6nk) | 66.24 GB |
-| 木星上行4K REMUX (2015) 4K REMUX            | [https://www.aliyundrive.com/s/JLQBFBPMEem](https://www.aliyundrive.com/s/JLQBFBPMEem) | 64.14 GB |
-| 独立日1 4K REMUX                            | https://www.aliyundrive.com/s/oRpzWuCY7RD                    | 75.4 GB  |
-| 沙丘 4K 原盘 REMUX                          | [https://www.aliyundrive.com/s/Up2B7hTvRgz](https://www.aliyundrive.com/s/Up2B7hTvRgz) | 68.4 GB  |
-|                                             |                                                              |          |
 
 ## DC 宇宙
 
