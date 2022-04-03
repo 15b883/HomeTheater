@@ -1,12 +1,14 @@
 # 分享阿里云盘资源
 
-![image-20220306160248456](./aliyundrive.png)
+
+
+<img src="./aliyundrive.png" width="50%">
 
 
 
 欢迎fork添加分享自己的资源，只添加50+G以上的资源
 
-https://github.com/15b883/aliyundriveshares
+[https://github.com/15b883/aliyundriveshares](https://github.com/15b883/aliyundriveshares)
 
 ## [科幻系列](./科幻系列.md)
 
@@ -18,3 +20,4 @@ https://github.com/15b883/aliyundriveshares
 
 ## [丧尸系列](./丧尸系列.md)
 
+## [灾难系列](./灾难系列.md)
