@@ -86,31 +86,41 @@
 
 ## 科幻系列
 
-| 名称                       | 链接                                                         | 大小      |
-| -------------------------- | ------------------------------------------------------------ | --------- |
-| 星际穿越 4K REMUX          | [https://www.aliyundrive.com/s/hhcR29JP6FU](https://www.aliyundrive.com/s/hhcR29JP6FU) | 77.81 GB  |
-| 第九区 4K REMUX            | [https://www.aliyundrive.com/s/C64aQ3avg6n](https://www.aliyundrive.com/s/C64aQ3avg6n) | 41.18 GB  |
-| 第五元素 4K REMUX          | [https://www.aliyundrive.com/s/5bWaHFo8dka](https://www.aliyundrive.com/s/5bWaHFo8dka) | 85.04 GB  |
-| 信条 4K REMUX              | [https://www.aliyundrive.com/s/AGLBrZVsoKj](https://www.aliyundrive.com/s/AGLBrZVsoKj) | 76.41 GB  |
-| 环太平洋 4K REMUX          | [https://www.aliyundrive.com/s/Qi2Rpkj8jPq](https://www.aliyundrive.com/s/Qi2Rpkj8jPq) | 65.56 GB  |
-| 环太平洋：雷霆再起4K REMUX | [https://www.aliyundrive.com/s/atLg7kwE6nk](https://www.aliyundrive.com/s/atLg7kwE6nk) | 66.24 GB  |
-| 木星上行4K REMUX           | [https://www.aliyundrive.com/s/JLQBFBPMEem](https://www.aliyundrive.com/s/JLQBFBPMEem) | 64.14 GB  |
-| 独立日1 4K REMUX           | https://www.aliyundrive.com/s/oRpzWuCY7RD                    | 75.4 GB   |
-| 沙丘 4K  REMUX             | [https://www.aliyundrive.com/s/Up2B7hTvRgz](https://www.aliyundrive.com/s/Up2B7hTvRgz) | 68.4 GB   |
-| 指环王1：护戒使者          | https://www.aliyundrive.com/s/NHTraemidP3                    | 113.95 GB |
-| 指环王2：双塔奇兵          | https://www.aliyundrive.com/s/YcvHUzRR8LJ                    | 108.24 GB |
-| 指环王3：王者无敌          | https://www.aliyundrive.com/s/q8KYPT9K9UQ                    | 127.07 GB |
+| 名称                       | 链接                                                         | 大小     |
+| -------------------------- | ------------------------------------------------------------ | -------- |
+| 星际穿越 4K REMUX          | [https://www.aliyundrive.com/s/hhcR29JP6FU](https://www.aliyundrive.com/s/hhcR29JP6FU) | 77.81 GB |
+| 第九区 4K REMUX            | [https://www.aliyundrive.com/s/C64aQ3avg6n](https://www.aliyundrive.com/s/C64aQ3avg6n) | 41.18 GB |
+| 第五元素 4K REMUX          | [https://www.aliyundrive.com/s/5bWaHFo8dka](https://www.aliyundrive.com/s/5bWaHFo8dka) | 85.04 GB |
+| 信条 4K REMUX              | [https://www.aliyundrive.com/s/AGLBrZVsoKj](https://www.aliyundrive.com/s/AGLBrZVsoKj) | 76.41 GB |
+| 环太平洋 4K REMUX          | [https://www.aliyundrive.com/s/Qi2Rpkj8jPq](https://www.aliyundrive.com/s/Qi2Rpkj8jPq) | 65.56 GB |
+| 环太平洋：雷霆再起4K REMUX | [https://www.aliyundrive.com/s/atLg7kwE6nk](https://www.aliyundrive.com/s/atLg7kwE6nk) | 66.24 GB |
+| 木星上行4K REMUX           | [https://www.aliyundrive.com/s/JLQBFBPMEem](https://www.aliyundrive.com/s/JLQBFBPMEem) | 64.14 GB |
+| 独立日1 4K REMUX           | [https://www.aliyundrive.com/s/oRpzWuCY7RD](https://www.aliyundrive.com/s/oRpzWuCY7RD) | 75.4 GB  |
+| 沙丘 4K  REMUX             | [https://www.aliyundrive.com/s/Up2B7hTvRgz](https://www.aliyundrive.com/s/Up2B7hTvRgz) | 68.4 GB  |
+| 失控玩家                   | [https://www.aliyundrive.com/s/kAerrEER7rP](https://www.aliyundrive.com/s/kAerrEER7rP) | 50.27 GB |
+| 头号玩家                   | [https://www.aliyundrive.com/s/oT3Sb9QW92L](https://www.aliyundrive.com/s/oT3Sb9QW92L) | 78.22 GB |
+| 火星救援                   | [https://www.aliyundrive.com/s/Sjy56t4JjoS](https://www.aliyundrive.com/s/Sjy56t4JjoS) | 53.47 GB |
+
+### 变形金刚
+
+| 名称                  | 链接                                                         | 大小     |
+| --------------------- | ------------------------------------------------------------ | -------- |
+| 变形金刚1             | [https://www.aliyundrive.com/s/YoQwPLUo1nL](https://www.aliyundrive.com/s/YoQwPLUo1nL) | 66.13 GB |
+| 变形金刚2：卷土重来   | [https://www.aliyundrive.com/s/CmG9wctkRVQ](https://www.aliyundrive.com/s/CmG9wctkRVQ) | 68.1 GB  |
+| 变形金刚3：月黑之时   | https://www.aliyundrive.com/s/LsB3a7dAS1x                    | 70.17 GB |
+| 变形金刚4：绝迹重生   | [https://www.aliyundrive.com/s/U3rEJw6JVzQ](https://www.aliyundrive.com/s/U3rEJw6JVzQ) | 72.74 GB |
+| 变形金刚5：最后的骑士 | https://www.aliyundrive.com/s/ZxyX2upoHoY                    | 71.85 GB |
 
 ## 魔幻系列
 
-| 名称                           | 链接                                      | 大小      |
-| ------------------------------ | ----------------------------------------- | --------- |
-| 霍比特人1：意外之旅 4K REMUX   | https://www.aliyundrive.com/s/RvHukB8HmsH | 75.67 GB  |
-| 霍比特人2：史矛革之战 4K REMUX | https://www.aliyundrive.com/s/jkxkDc4uFdz | 84.93 GB  |
-| 霍比特人3：五军之战 4K REMUX   | https://www.aliyundrive.com/s/RrL3S86TrhE | 68.75 GB  |
-| 指环王1：护戒使者 4K REMUX     | https://www.aliyundrive.com/s/NHTraemidP3 | 113.95 GB |
-| 指环王2：双塔奇兵 4K REMUX     | https://www.aliyundrive.com/s/YcvHUzRR8LJ | 108.24 GB |
-| 指环王3：王者无敌 4K REMUX     | https://www.aliyundrive.com/s/q8KYPT9K9UQ | 127.07 GB |
+| 名称                           | 链接                                                         | 大小      |
+| ------------------------------ | ------------------------------------------------------------ | --------- |
+| 霍比特人1：意外之旅 4K REMUX   | [https://www.aliyundrive.com/s/RvHukB8HmsH](https://www.aliyundrive.com/s/RvHukB8HmsH) | 75.67 GB  |
+| 霍比特人2：史矛革之战 4K REMUX | [https://www.aliyundrive.com/s/jkxkDc4uFdz](https://www.aliyundrive.com/s/jkxkDc4uFdz) | 84.93 GB  |
+| 霍比特人3：五军之战 4K REMUX   | [https://www.aliyundrive.com/s/RrL3S86TrhE](https://www.aliyundrive.com/s/RrL3S86TrhE) | 68.75 GB  |
+| 指环王1：护戒使者 4K REMUX     | [https://www.aliyundrive.com/s/NHTraemidP3](https://www.aliyundrive.com/s/NHTraemidP3) | 113.95 GB |
+| 指环王2：双塔奇兵 4K REMUX     | [https://www.aliyundrive.com/s/YcvHUzRR8LJ](https://www.aliyundrive.com/s/YcvHUzRR8LJ) | 108.24 GB |
+| 指环王3：王者无敌 4K REMUX     | [https://www.aliyundrive.com/s/q8KYPT9K9UQ](https://www.aliyundrive.com/s/q8KYPT9K9UQ) | 127.07 GB |
 
 ## 丧尸系列
 
@@ -127,11 +137,11 @@
 
 ## 灾难系列
 
-| 名称             | 链接                                      | 大小     |
-| ---------------- | ----------------------------------------- | -------- |
-| 2012 4K原盘REMUX | https://www.aliyundrive.com/s/gAWbkZS1a4a | 77.01 GB |
-| 后天 4K          | https://www.aliyundrive.com/s/fV5evcy8L94 | 31.45 GB |
-| 十万火急         | https://www.aliyundrive.com/s/QbDWCC2FJEB | 33.14 GB |
+| 名称             | 链接                                                         | 大小     |
+| ---------------- | ------------------------------------------------------------ | -------- |
+| 2012 4K原盘REMUX | [https://www.aliyundrive.com/s/gAWbkZS1a4a](https://www.aliyundrive.com/s/gAWbkZS1a4a) | 77.01 GB |
+| 后天 4K          | [https://www.aliyundrive.com/s/fV5evcy8L94](https://www.aliyundrive.com/s/fV5evcy8L94) | 31.45 GB |
+| 十万火急         | [https://www.aliyundrive.com/s/QbDWCC2FJEB](https://www.aliyundrive.com/s/QbDWCC2FJEB) | 33.14 GB |
 
 ## 战争系列
 
@@ -144,3 +154,48 @@
 | 冒牌上尉 4K REMUX     | [https://www.aliyundrive.com/s/zJdNZgVHpuM](https://www.aliyundrive.com/s/zJdNZgVHpuM) | 52.92 GB |
 | 大逃亡 1963 4K REMUX  | [https://www.aliyundrive.com/s/u7JS4jxEVjf](https://www.aliyundrive.com/s/u7JS4jxEVjf) | 79.29 GB |
 | 珍珠港 4K REMUX       | [https://www.aliyundrive.com/s/LKFjQwg2vuc](https://www.aliyundrive.com/s/LKFjQwg2vuc) | 38.86 GB |
+
+## 怪兽系列
+
+| 名称              | 链接                                                         | 大小     |
+| ----------------- | ------------------------------------------------------------ | -------- |
+| 金刚              | [https://www.aliyundrive.com/s/1szhj44hhTz](https://www.aliyundrive.com/s/1szhj44hhTz) | 79.92 GB |
+| 金刚：骷髅岛4K    | [https://www.aliyundrive.com/s/fdmAQuQtQNd](https://www.aliyundrive.com/s/fdmAQuQtQNd) | 56.78 GB |
+| 哥斯拉2：怪兽之王 | [https://www.aliyundrive.com/s/bEUuoJjta2a](https://www.aliyundrive.com/s/bEUuoJjta2a) | 55.47 GB |
+| 哥斯拉2014        | [https://www.aliyundrive.com/s/kZvLsePYzBr](https://www.aliyundrive.com/s/kZvLsePYzBr) | 68.37 GB |
+
+## 动漫系列
+
+| 名称                             | 链接                                                         | 大小     |
+| -------------------------------- | ------------------------------------------------------------ | -------- |
+| 七龙珠                           | [https://www.aliyundrive.com/s/qhoDsx1Kt8B](https://www.aliyundrive.com/s/qhoDsx1Kt8B) | 完结     |
+| 龙珠超                           | [https://www.aliyundrive.com/s/Hr4RnK92pn4](https://www.aliyundrive.com/s/Hr4RnK92pn4) | 完结     |
+| 龙珠Z                            | [https://www.aliyundrive.com/s/igauaQ7tmPa](https://www.aliyundrive.com/s/igauaQ7tmPa) | 完结     |
+| 千与千寻                         | https://www.aliyundrive.com/s/pqsY2jHgZQ5                    | 30.55 GB |
+| 阿拉蕾 81版+97版+剧场版 日音中字 | [https://www.aliyundrive.com/s/aVgUvYDHBME](https://www.aliyundrive.com/s/aVgUvYDHBME) |          |
+| 你的名字                         | [https://www.aliyundrive.com/s/WnoejaViFDL](https://www.aliyundrive.com/s/WnoejaViFDL) | 50.05 GB |
+| 天气之子                         | [https://www.aliyundrive.com/s/MamqyG861qE](https://www.aliyundrive.com/s/MamqyG861qE) | 45.61 GB |
+| 天空之城                         | [https://www.aliyundrive.com/s/8S96rDAjVWz](https://www.aliyundrive.com/s/8S96rDAjVWz) | 30.86 GB |
+| 崖上的波妞                       | [https://www.aliyundrive.com/s/3gdndBxZGdL ](https://www.aliyundrive.com/s/3gdndBxZGdL ) | 28.83 GB |
+| 轻音少女                         | [https://www.aliyundrive.com/s/YKRLBjpGKjA](https://www.aliyundrive.com/s/YKRLBjpGKjA) |          |
+| 云之彼端，约定的地方             | [https://www.aliyundrive.com/s/aLTALAS2n9W](https://www.aliyundrive.com/s/aLTALAS2n9W) | 21.05 GB |
+| 借东西的小人阿莉埃蒂             | [https://www.aliyundrive.com/s/5ghZwr9Ggit](https://www.aliyundrive.com/s/5ghZwr9Ggit) | 22.63 GB |
+| 心灵想要大声呼喊                 | [https://www.aliyundrive.com/s/qYhiyruZUSo](https://www.aliyundrive.com/s/qYhiyruZUSo) | 31.33 GB |
+| 灌篮高手剧场版                   | [https://www.aliyundrive.com/s/cXXAsgKmW8J](https://www.aliyundrive.com/s/cXXAsgKmW8J) |          |
+| 灌篮高手                         | [https://www.aliyundrive.com/s/EbvpqSDjL8P](https://www.aliyundrive.com/s/EbvpqSDjL8P) |          |
+
+## 纪录片
+
+| 名称                                   | 链接                                                         | 大小 |
+| -------------------------------------- | ------------------------------------------------------------ | ---- |
+| 七个世界，一个星球                     | [https://www.aliyundrive.com/s/LvyRJNeTf4w](https://www.aliyundrive.com/s/LvyRJNeTf4w) |      |
+| 天启：第一次世界大战                   | [https://www.aliyundrive.com/s/MbMuVRbny7k](https://www.aliyundrive.com/s/MbMuVRbny7k) |      |
+| 天启：希特勒的崛起                     | [https://www.aliyundrive.com/s/nasDVvJrQpv](https://www.aliyundrive.com/s/nasDVvJrQpv) |      |
+| 流行病如何预防流感大爆发               | [https://www.aliyundrive.com/s/3oAAiEbwuGN](https://www.aliyundrive.com/s/3oAAiEbwuGN) |      |
+| 猎杀本·拉登                            | [https://www.aliyundrive.com/s/f4FAWqpZjwV](https://www.aliyundrive.com/s/f4FAWqpZjwV) |      |
+| 美国金融史                             | [https://www.aliyundrive.com/s/MNB9aNadaEZ](https://www.aliyundrive.com/s/MNB9aNadaEZ) |      |
+| 一代财富                               | [https://www.aliyundrive.com/s/YkpY5FxWRoB](https://www.aliyundrive.com/s/YkpY5FxWRoB) |      |
+| 买进名校：美国大学舞弊风暴             | [https://www.aliyundrive.com/s/1sM51Uoeing](https://www.aliyundrive.com/s/1sM51Uoeing) |      |
+| 尖端医疗的真相                         | [https://www.aliyundrive.com/s/uDcEmAs1M1Q](https://www.aliyundrive.com/s/uDcEmAs1M1Q) |      |
+| 滋生欲望的资本主义2018 ...力量觉醒之时 | [https://www.aliyundrive.com/s/soYQskStdfz](https://www.aliyundrive.com/s/soYQskStdfz) |      |
+| 黑客如何改变世界                       | [https://www.aliyundrive.com/s/Ek2Mk59SVWL ](https://www.aliyundrive.com/s/Ek2Mk59SVWL ) |      |
