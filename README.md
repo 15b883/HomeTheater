@@ -10,6 +10,28 @@
 
 请按快捷键**Ctrl+F 进行搜索（电影名）**
 
+名词解释（来此百度）
+
+**Remux** 的意思是无损的提取出HD-DVD 和 BluRay-DVD里面的视频数据和音频数据，封装到我们熟悉的TS或者MKV文件中。
+
+**蓝光原盘**是指对正式出版的[蓝光影碟](https://baike.baidu.com/item/蓝光影碟/804679)的数字拷贝，分辨率能够达到1920×1080格式的影片。蓝光原盘BD必须是原版的数据拷贝，不得对原版的数据和结构进行任何的增删或者改动，而进行了改动的则以其他的名称来称呼，比如BD-remux、BD-RE、BDRip等等。
+
+**4K**分辨率属于超高清分辨率。在此分辨率下，观众将可以看清画面中的每一个细节，每一个特写。影院如果采用4096×2160分辨率，无论在影院的哪个位置，观众都可以清楚地看到画面的每一个细节。
+
+## 播放器建议
+
+**请到官网下载软件**
+
+Windows建议使用播放器
+
+官方网站：http://potplayer.tv/
+
+PotPlayer [https://www.aliyundrive.com/s/iUDWXv24Xm5 ](https://www.aliyundrive.com/s/iUDWXv24Xm5)
+
+Mac 建议使用播放器（阿里云盘不能分享dmg文件）
+
+官方网站：https://www.iina.io/ 
+
 ## 漫威宇宙
 
 ### 蜘蛛侠
@@ -82,7 +104,7 @@
 | 蝙蝠侠2：黑暗骑士 4K       | [https://www.aliyundrive.com/s/Pd2Un55JT9B](https://www.aliyundrive.com/s/Pd2Un55JT9B) | 54.25 GB |
 | 蝙蝠侠3：黑暗骑士崛起 4K   | [https://www.aliyundrive.com/s/Vchkq9rErkm](https://www.aliyundrive.com/s/Vchkq9rErkm) | 68.78 GB |
 | 蝙蝠侠大战超人-正义黎明 4K | [https://www.aliyundrive.com/s/FNRjXdkUogp](https://www.aliyundrive.com/s/FNRjXdkUogp) | 85.14 GB |
-| 新蝙蝠侠 2022              | https://www.aliyundrive.com/s/9B97myBYxd1                    | 31.31 GB |
+| 新蝙蝠侠 2022              | [https://www.aliyundrive.com/s/9B97myBYxd1](https://www.aliyundrive.com/s/9B97myBYxd1) | 31.31 GB |
 | 海王 4K原盘REMUX           | [https://www.aliyundrive.com/s/GDAGMXyZFXy ](https://www.aliyundrive.com/s/GDAGMXyZFXy ) | 56.42 GB |
 
 ## 科幻系列
@@ -172,7 +194,7 @@
 | 七龙珠                           | [https://www.aliyundrive.com/s/qhoDsx1Kt8B](https://www.aliyundrive.com/s/qhoDsx1Kt8B) | 完结     |
 | 龙珠超                           | [https://www.aliyundrive.com/s/Hr4RnK92pn4](https://www.aliyundrive.com/s/Hr4RnK92pn4) | 完结     |
 | 龙珠Z                            | [https://www.aliyundrive.com/s/igauaQ7tmPa](https://www.aliyundrive.com/s/igauaQ7tmPa) | 完结     |
-| 千与千寻                         | [https://www.aliyundrive.com/s/pqsY2jHgZQ5](https://www.aliyundrive.com/s/pqsY2jHgZQ5) | 30.55 GB |
+| 「EVA 新剧场」                   | [https://www.aliyundrive.com/s/uGZDM8ua4R6](https://www.aliyundrive.com/s/uGZDM8ua4R6) |          |
 | 阿拉蕾 81版+97版+剧场版 日音中字 | [https://www.aliyundrive.com/s/aVgUvYDHBME](https://www.aliyundrive.com/s/aVgUvYDHBME) |          |
 | 你的名字                         | [https://www.aliyundrive.com/s/WnoejaViFDL](https://www.aliyundrive.com/s/WnoejaViFDL) | 50.05 GB |
 | 天气之子                         | [https://www.aliyundrive.com/s/MamqyG861qE](https://www.aliyundrive.com/s/MamqyG861qE) | 45.61 GB |
@@ -184,6 +206,19 @@
 | 心灵想要大声呼喊                 | [https://www.aliyundrive.com/s/qYhiyruZUSo](https://www.aliyundrive.com/s/qYhiyruZUSo) | 31.33 GB |
 | 灌篮高手剧场版                   | [https://www.aliyundrive.com/s/cXXAsgKmW8J](https://www.aliyundrive.com/s/cXXAsgKmW8J) |          |
 | 灌篮高手                         | [https://www.aliyundrive.com/s/EbvpqSDjL8P](https://www.aliyundrive.com/s/EbvpqSDjL8P) |          |
+| 星合の空                         | [https://www.aliyundrive.com/s/WL5SCePdJ7k](https://www.aliyundrive.com/s/WL5SCePdJ7k) |          |
+| 银翼杀手-黑莲花                  | [https://www.aliyundrive.com/s/Uc51Ymy2bpD](https://www.aliyundrive.com/s/Uc51Ymy2bpD) |          |
+
+### 宫崎骏
+
+| 名称           | 链接                                                         | 大小     |
+| -------------- | ------------------------------------------------------------ | -------- |
+| 千与千寻       | [https://www.aliyundrive.com/s/pqsY2jHgZQ5](https://www.aliyundrive.com/s/pqsY2jHgZQ5) | 30.55 GB |
+| 龙猫           | [https://www.aliyundrive.com/s/cGn9xL43Da9](https://www.aliyundrive.com/s/cGn9xL43Da9) |          |
+| 魔女宅急便     | [https://www.aliyundrive.com/s/fCwdvLSGY2C](https://www.aliyundrive.com/s/fCwdvLSGY2C) |          |
+| 追逐繁星的孩子 | [https://www.aliyundrive.com/s/StcAe6cgPfs](https://www.aliyundrive.com/s/StcAe6cgPfs) |          |
+| 红猪           | [https://www.aliyundrive.com/s/gAaPfTiY9fg](https://www.aliyundrive.com/s/gAaPfTiY9fg) |          |
+| 哈尔的移动城堡 | [https://www.aliyundrive.com/s/Z1RybUGgSvt](https://www.aliyundrive.com/s/Z1RybUGgSvt) |          |
 
 ## 纪录片
 
@@ -216,4 +251,31 @@
 | 肖申克的救赎 4K原盘REMUX | [https://www.aliyundrive.com/s/HFWpdBteYkX](https://www.aliyundrive.com/s/HFWpdBteYkX) | 53.67 GB  |
 | V字仇杀队 4K 原盘 REMUX  | [https://www.aliyundrive.com/s/bBwoZ6F4v9a](https://www.aliyundrive.com/s/bBwoZ6F4v9a) | 71.39 GB  |
 | 这个杀手不太冷           | [https://www.aliyundrive.com/s/f3BYmsSbWwR](https://www.aliyundrive.com/s/f3BYmsSbWwR) | 69.75 GB  |
+
+## 国产系列
+
+### 古装剧
+
+| 名称                   | 链接                                                         | 大小 |
+| ---------------------- | ------------------------------------------------------------ | ---- |
+| 西游记                 | [https://www.aliyundrive.com/s/3wVCz5cWnu2](https://www.aliyundrive.com/s/3wVCz5cWnu2) |      |
+| 西游记后传             | [https://www.aliyundrive.com/s/31d4PDcvsHj](https://www.aliyundrive.com/s/31d4PDcvsHj) |      |
+| 三国演义1994           | [https://www.aliyundrive.com/s/Zr1k8hd14cS](https://www.aliyundrive.com/s/Zr1k8hd14cS) |      |
+| 水浒传（张涵予）       | [https://www.aliyundrive.com/s/EANBaEyGxkW](https://www.aliyundrive.com/s/EANBaEyGxkW) |      |
+| 水浒传（李雪健）.1998. | [https://www.aliyundrive.com/s/QCsbQ7qtzn7](https://www.aliyundrive.com/s/QCsbQ7qtzn7) |      |
+| 红楼梦                 | [https://www.aliyundrive.com/s/P967efMXmHq](https://www.aliyundrive.com/s/P967efMXmHq) |      |
+| 隋唐英雄传             | [https://www.aliyundrive.com/s/XGgLe75WxdH](https://www.aliyundrive.com/s/XGgLe75WxdH) |      |
+| 贞观之治               | [https://www.aliyundrive.com/s/BBJWLbNuwvq](https://www.aliyundrive.com/s/BBJWLbNuwvq) |      |
+| 大明王朝               | [https://www.aliyundrive.com/s/xs5qEh31ZhC](https://www.aliyundrive.com/s/xs5qEh31ZhC) |      |
+| 雍正王朝               | [https://www.aliyundrive.com/s/uej1eBxPZdi](https://www.aliyundrive.com/s/uej1eBxPZdi) |      |
+| 天龙八部（黄日华）     | [https://www.aliyundrive.com/s/sWN59ZivbK8](https://www.aliyundrive.com/s/sWN59ZivbK8) |      |
+| 天龙八部（胡军）       | [https://www.aliyundrive.com/s/RSaskJ4ZLy4 ](https://www.aliyundrive.com/s/RSaskJ4ZLy4 ) |      |
+| 少年包青天1            | [https://www.aliyundrive.com/s/7ATAPXRAYZu](https://www.aliyundrive.com/s/7ATAPXRAYZu) |      |
+| 少年包青天2            | [https://www.aliyundrive.com/s/3vmm5rAkLLJ ](https://www.aliyundrive.com/s/3vmm5rAkLLJ ) |      |
+| 少年包青天3            | [https://www.aliyundrive.com/s/5phPaNRMiFt](https://www.aliyundrive.com/s/5phPaNRMiFt) |      |
+| 仙剑奇侠传一           | [https://www.aliyundrive.com/s/qRpAkSsSFru](https://www.aliyundrive.com/s/qRpAkSsSFru) |      |
+| 仙剑奇侠传三           | [https://www.aliyundrive.com/s/pJWADNMTVPT](https://www.aliyundrive.com/s/pJWADNMTVPT) |      |
+| 人民的名义             | [https://www.aliyundrive.com/s/qzjbxfQssWM](https://www.aliyundrive.com/s/qzjbxfQssWM) |      |
+| 亮剑                   | [https://www.aliyundrive.com/s/PnqwGFxXYRQ](https://www.aliyundrive.com/s/PnqwGFxXYRQ) |      |
+| 神雕侠侣古天乐         | [https://www.aliyundrive.com/s/qEFA4uKttQS](https://www.aliyundrive.com/s/qEFA4uKttQS) |      |
 
