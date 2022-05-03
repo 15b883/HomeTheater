@@ -4,19 +4,31 @@
 
 <center><p><img src="./aliyundrive.png" width="50%"></p></center>
 
+## 影视资源
+
 欢迎fork添加分享自己的资源，只添加50+G以上的资源
 
 [https://github.com/15b883/aliyundriveshares](https://github.com/15b883/aliyundriveshares)
 
 请按快捷键**Ctrl+F 进行搜索（电影名）**
 
-名词解释（来此百度）
+### 4K
 
-**Remux** 的意思是无损的提取出HD-DVD 和 BluRay-DVD里面的视频数据和音频数据，封装到我们熟悉的TS或者MKV文件中。
+**4K蓝光原盘和4K Remux**
 
-**蓝光原盘**是指对正式出版的[蓝光影碟](https://baike.baidu.com/item/蓝光影碟/804679)的数字拷贝，分辨率能够达到1920×1080格式的影片。蓝光原盘BD必须是原版的数据拷贝，不得对原版的数据和结构进行任何的增删或者改动，而进行了改动的则以其他的名称来称呼，比如BD-remux、BD-RE、BDRip等等。
+原盘：正片视频+花絮+所有音轨
 
-**4K**分辨率属于超高清分辨率。在此分辨率下，观众将可以看清画面中的每一个细节，每一个特写。影院如果采用4096×2160分辨率，无论在影院的哪个位置，观众都可以清楚地看到画面的每一个细节。
+remux：正片视频+主要音轨
+
+### 字幕
+
+ass、ssa扩展名的是特效字幕，带有颜色、大小等特效
+
+srt字幕无特效，均可用记事本打开、编辑。
+
+加载字幕的方法，在播放视频时，将字幕文件直接“拖”到播放窗口
+
+
 
 ## 播放器建议
 
@@ -220,7 +232,7 @@ Mac 建议使用播放器（阿里云盘不能分享dmg文件）
 | 红猪           | [https://www.aliyundrive.com/s/gAaPfTiY9fg](https://www.aliyundrive.com/s/gAaPfTiY9fg) |          |
 | 哈尔的移动城堡 | [https://www.aliyundrive.com/s/Z1RybUGgSvt](https://www.aliyundrive.com/s/Z1RybUGgSvt) |          |
 
-## 纪录片
+## 纪录片系列
 
 | 名称                                   | 链接                                                         | 大小 |
 | -------------------------------------- | ------------------------------------------------------------ | ---- |
@@ -279,3 +291,22 @@ Mac 建议使用播放器（阿里云盘不能分享dmg文件）
 | 亮剑                   | [https://www.aliyundrive.com/s/PnqwGFxXYRQ](https://www.aliyundrive.com/s/PnqwGFxXYRQ) |      |
 | 神雕侠侣古天乐         | [https://www.aliyundrive.com/s/qEFA4uKttQS](https://www.aliyundrive.com/s/qEFA4uKttQS) |      |
 
+## 犯罪系列
+
+| 名称                                        | 链接                                                         | 大小     |
+| ------------------------------------------- | ------------------------------------------------------------ | -------- |
+| 「惊天魔盗团1 4K REMUX」                    | [https://www.aliyundrive.com/s/Qv1yBkoZn4v](https://www.aliyundrive.com/s/Qv1yBkoZn4v) | 55.88 GB |
+| 「惊天魔盗团2 4K REMUX」                    | [https://www.aliyundrive.com/s/aps7XAQF1wc](https://www.aliyundrive.com/s/aps7XAQF1wc) | 60.63 GB |
+| 「敢死队1 4K」                              | [https://www.aliyundrive.com/s/kjxLTPx6M3v](https://www.aliyundrive.com/s/kjxLTPx6M3v) | 53.79 GB |
+| 「敢死队2 4K」                              | [https://www.aliyundrive.com/s/fdF9eiWfC2W](https://www.aliyundrive.com/s/fdF9eiWfC2W) | 54.25 GB |
+| 「敢死队3 4K」                              | [https://www.aliyundrive.com/s/g7g2ecN2xcL](https://www.aliyundrive.com/s/g7g2ecN2xcL) | 53.78 GB |
+| 「边境杀手1 4K REMUX(原盘 蓝光)」           | [https://www.aliyundrive.com/s/yr2W8yTC13q](https://www.aliyundrive.com/s/yr2W8yTC13q) | 55.44 GB |
+| 「边境杀手2：边境战士 4K REMUX(原盘 蓝光)」 | [https://www.aliyundrive.com/s/EFrvgDVN7gP](https://www.aliyundrive.com/s/EFrvgDVN7gP) | 54.99 GB |
+| 「金蝉脱壳」                                | [https://www.aliyundrive.com/s/HCdDVRpaoCA](https://www.aliyundrive.com/s/HCdDVRpaoCA) | 64.5 GB  |
+| 「瞒天过海（美人计）」                      | [https://www.aliyundrive.com/s/Xq6YzDzRvY6](https://www.aliyundrive.com/s/Xq6YzDzRvY6) | 55.43 GB |
+| 「无间道 (2002)」                           | [https://www.aliyundrive.com/s/gzcsoe6rUgC](https://www.aliyundrive.com/s/gzcsoe6rUgC) |          |
+| 「无间道 (正序版) (2006)」                  | [https://www.aliyundrive.com/s/6M2W9quaN1p](https://www.aliyundrive.com/s/6M2W9quaN1p) |          |
+| 「无间道2 (2003)」                          | [https://www.aliyundrive.com/s/zmCctn2k77W](https://www.aliyundrive.com/s/zmCctn2k77W) |          |
+| 「无间道3：终极无间 (2003)」                | [https://www.aliyundrive.com/s/cis6u9tBLyj](https://www.aliyundrive.com/s/cis6u9tBLyj) |          |
+| 「男儿本色 蓝光原盘REMUX [内封简英双字]」   | [https://www.aliyundrive.com/s/RFsCj3tqUVW](https://www.aliyundrive.com/s/RFsCj3tqUVW) |          |
+| 「尼罗河上的惨案(2022)」                    | [https://www.aliyundrive.com/s/A1yab1jKVXW](https://www.aliyundrive.com/s/A1yab1jKVXW) |          |
