@@ -310,3 +310,7 @@ Mac 建议使用播放器（阿里云盘不能分享dmg文件）
 | 无间道3：终极无间 (2003)     | [https://www.aliyundrive.com/s/cis6u9tBLyj](https://www.aliyundrive.com/s/cis6u9tBLyj) |          |
 | 男儿本色                     | [https://www.aliyundrive.com/s/RFsCj3tqUVW](https://www.aliyundrive.com/s/RFsCj3tqUVW) |          |
 | 尼罗河上的惨案               | [https://www.aliyundrive.com/s/A1yab1jKVXW](https://www.aliyundrive.com/s/A1yab1jKVXW) |          |
+
+
+
+[盗墓笔记与鬼吹灯](./盗墓笔记-鬼吹灯.md)
