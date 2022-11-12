@@ -225,7 +225,7 @@ Mac 建议使用播放器（阿里云盘不能分享dmg文件）
 
 | 名称           | 链接                                                         | 大小     |
 | -------------- | ------------------------------------------------------------ | -------- |
-| 千与千寻       | [https://www.aliyundrive.com/s/pqsY2jHgZQ5](https://www.aliyundrive.com/s/pqsY2jHgZQ5) | 30.55 GB |
+| 千与千寻       | [https://www.aliyundrive.com/s/mAXEAQMEByn](https://www.aliyundrive.com/s/mAXEAQMEByn) | 104.17 GB |
 | 龙猫           | [https://www.aliyundrive.com/s/cGn9xL43Da9](https://www.aliyundrive.com/s/cGn9xL43Da9) |          |
 | 魔女宅急便     | [https://www.aliyundrive.com/s/fCwdvLSGY2C](https://www.aliyundrive.com/s/fCwdvLSGY2C) |          |
 | 追逐繁星的孩子 | [https://www.aliyundrive.com/s/StcAe6cgPfs](https://www.aliyundrive.com/s/StcAe6cgPfs) |          |
