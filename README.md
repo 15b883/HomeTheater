@@ -75,6 +75,8 @@ Mac 建议使用播放器（阿里云盘不能分享dmg文件）
 | 雷神1 4K REMUX | [https://www.aliyundrive.com/s/yzKMUDSoHFh](https://www.aliyundrive.com/s/yzKMUDSoHFh) | 58.95 GB |
 | 雷神2 4K REMUX | [https://www.aliyundrive.com/s/iPLKs1LHz3h](https://www.aliyundrive.com/s/iPLKs1LHz3h) | 50.59 GB |
 | 雷神3 4K REMUX | [https://www.aliyundrive.com/s/tDjiqcGntAX](https://www.aliyundrive.com/s/tDjiqcGntAX) | 58.08 GB |
+| 雷神4 4K REMUX | [https://www.aliyundrive.com/s/vNqtupRURpF](https://www.aliyundrive.com/s/vNqtupRURpF) | 51.18 GB |
+
 
 ### 美国队长
 
