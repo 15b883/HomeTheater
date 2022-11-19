@@ -310,9 +310,16 @@ Mac 建议使用播放器（阿里云盘不能分享dmg文件）
 | 无间道 (正序版) (2006)       | [https://www.aliyundrive.com/s/6M2W9quaN1p](https://www.aliyundrive.com/s/6M2W9quaN1p) |          |
 | 无间道2 (2003)               | [https://www.aliyundrive.com/s/zmCctn2k77W](https://www.aliyundrive.com/s/zmCctn2k77W) |          |
 | 无间道3：终极无间 (2003)     | [https://www.aliyundrive.com/s/cis6u9tBLyj](https://www.aliyundrive.com/s/cis6u9tBLyj) |          |
-| 男儿本色                     | [https://www.aliyundrive.com/s/RFsCj3tqUVW](https://www.aliyundrive.com/s/RFsCj3tqUVW) |          |
-| 尼罗河上的惨案               | [https://www.aliyundrive.com/s/A1yab1jKVXW](https://www.aliyundrive.com/s/A1yab1jKVXW) |          |
+|                              |                                                              |          |
+|                              |                                                              |          |
 
+## 唯美治愈系
 
+| 名称          | 链接                                      | 大小      |
+| ------------- | ----------------------------------------- | --------- |
+| 海蒂和爷爷    | https://www.aliyundrive.com/s/kuieBywbyix | 强烈推荐❗️ |
+| 小森林-夏秋篇 | https://www.aliyundrive.com/s/qgYnQZAd8cq |           |
+| 小森林-冬春篇 | https://www.aliyundrive.com/s/3X818T3ykQA |           |
+|               |                                           |           |
 
-[盗墓笔记与鬼吹灯](./盗墓笔记-鬼吹灯.md)
+[鬼吹灯](./盗墓笔记-鬼吹灯.md)
