@@ -252,6 +252,7 @@ Mac 建议使用播放器（阿里云盘不能分享dmg文件）
 | 滋生欲望的资本主义2018 ...力量觉醒之时 | [https://www.aliyundrive.com/s/soYQskStdfz](https://www.aliyundrive.com/s/soYQskStdfz) |      |
 | 黑客如何改变世界                       | [https://www.aliyundrive.com/s/Ek2Mk59SVWL ](https://www.aliyundrive.com/s/Ek2Mk59SVWL ) |      |
 | 冰冻星球                               | [https://www.aliyundrive.com/s/SdHusgsJJ2p](https://www.aliyundrive.com/s/SdHusgsJJ2p) |      |
+| 克里斯·海姆斯沃斯 - 极限挑战           | [https://www.aliyundrive.com/s/HQYDuvJwRPd](https://www.aliyundrive.com/s/HQYDuvJwRPd) |      |
 
 ## 经典系列
 
