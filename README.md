@@ -6,7 +6,14 @@
 
 
 
-[<img src="./images/movie.png" alt="电影" style="zoom: 33%;" /> ](./movie.md) [<img src="./images/music.png" alt="音乐" style="zoom:33%;" /> ](./music.md)
+
+
+<center>
+	<font size = 55> 请根据分类点击进去，搜索想要的资源 </font>
+</center>
+[<img src="./images/movie.png" alt="电影" style="zoom: 40%;" /> ](./movie.md) [<img src="./images/music.png" alt="音乐" style="zoom: 40%;" /> ](./music.md)[<img src="./images/software.png" alt="音乐" style="zoom:40%;" /> ](./software.md)
+
+
 
 ## 影视资源
 
