@@ -5,12 +5,7 @@
 <center><p><img src="./aliyundrive.png" width="50%"></p></center>
 
 
-
-<center>
-	<a href = "./movie.md"><img src="./images/movie.png" alt="image-20221124224811016" style="zoom:50%;" /></a><a href = "./music.md"><img src="./images/music.png" alt="image-20221124224907894" style="zoom:50%;" /></a>
-</center>
-
-
+[![电影](./images/movie.png) ](./movie.md) [![音乐](./images/music.png) ](./music.md)
 
 
 ## 影视资源
