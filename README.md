@@ -5,8 +5,8 @@
 <center><p><img src="./aliyundrive.png" width="50%"></p></center>
 
 
-[![电影](./images/movie.png) ](./movie.md) [![音乐](./images/music.png) ](./music.md)
 
+[<img src="./images/movie.png" alt="电影" style="zoom: 33%;" /> ](./movie.md) [<img src="./images/music.png" alt="音乐" style="zoom:33%;" /> ](./music.md)
 
 ## 影视资源
 
