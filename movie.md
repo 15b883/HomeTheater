@@ -92,6 +92,7 @@
 | 头号玩家                   | [https://www.aliyundrive.com/s/oT3Sb9QW92L](https://www.aliyundrive.com/s/oT3Sb9QW92L) | 78.22 GB  |
 | 火星救援                   | [https://www.aliyundrive.com/s/Sjy56t4JjoS](https://www.aliyundrive.com/s/Sjy56t4JjoS) | 53.47 GB  |
 | 阿凡达 4K REMUX            | [https://www.aliyundrive.com/s/3Yr29zhPXAM](https://www.aliyundrive.com/s/3Yr29zhPXAM) | 101.95 GB |
+| 明日边缘                   | [https://www.aliyundrive.com/s/g74pNr6HaCC](https://www.aliyundrive.com/s/g74pNr6HaCC) | 78.11 GB  |
 
 ### 变形金刚
 
@@ -102,6 +103,19 @@
 | 变形金刚3：月黑之时   | https://www.aliyundrive.com/s/LsB3a7dAS1x                    | 70.17 GB |
 | 变形金刚4：绝迹重生   | [https://www.aliyundrive.com/s/U3rEJw6JVzQ](https://www.aliyundrive.com/s/U3rEJw6JVzQ) | 72.74 GB |
 | 变形金刚5：最后的骑士 | https://www.aliyundrive.com/s/ZxyX2upoHoY                    | 71.85 GB |
+
+### 终结者
+
+| 名称                | 链接 | 大小 |
+| ------------------- | ---- | ---- |
+| 终结者1：魔鬼终结者 |      |      |
+| 终结者2：审判日     |      |      |
+| 终结者3：机器的觉醒 |      |      |
+| 终结者4：救世军     |      |      |
+| 终结者5：创世纪     |      |      |
+| 终结者6：黑暗命运   |      |      |
+
+
 
 ## 魔幻系列
 
@@ -260,14 +274,14 @@
 | 敢死队3 4K                   | [https://www.aliyundrive.com/s/g7g2ecN2xcL](https://www.aliyundrive.com/s/g7g2ecN2xcL) | 53.78 GB |
 | 边境杀手1 4K REMUX           | [https://www.aliyundrive.com/s/yr2W8yTC13q](https://www.aliyundrive.com/s/yr2W8yTC13q) | 55.44 GB |
 | 边境杀手2：边境战士 4K REMUX | [https://www.aliyundrive.com/s/EFrvgDVN7gP](https://www.aliyundrive.com/s/EFrvgDVN7gP) | 54.99 GB |
-| 金蝉脱壳」                   | [https://www.aliyundrive.com/s/HCdDVRpaoCA](https://www.aliyundrive.com/s/HCdDVRpaoCA) | 64.5 GB  |
+| 金蝉脱壳                     | [https://www.aliyundrive.com/s/HCdDVRpaoCA](https://www.aliyundrive.com/s/HCdDVRpaoCA) | 64.5 GB  |
 | 瞒天过海（美人计）           | [https://www.aliyundrive.com/s/Xq6YzDzRvY6](https://www.aliyundrive.com/s/Xq6YzDzRvY6) | 55.43 GB |
 | 无间道 (2002)                | [https://www.aliyundrive.com/s/gzcsoe6rUgC](https://www.aliyundrive.com/s/gzcsoe6rUgC) |          |
 | 无间道 (正序版) (2006)       | [https://www.aliyundrive.com/s/6M2W9quaN1p](https://www.aliyundrive.com/s/6M2W9quaN1p) |          |
 | 无间道2 (2003)               | [https://www.aliyundrive.com/s/zmCctn2k77W](https://www.aliyundrive.com/s/zmCctn2k77W) |          |
 | 无间道3：终极无间 (2003)     | [https://www.aliyundrive.com/s/cis6u9tBLyj](https://www.aliyundrive.com/s/cis6u9tBLyj) |          |
-|                              |                                                              |          |
-|                              |                                                              |          |
+| 生死狙击                     | [https://www.aliyundrive.com/s/Q6FphSj5HL4](https://www.aliyundrive.com/s/Q6FphSj5HL4) |          |
+| 冰路营救                     | [https://www.aliyundrive.com/s/u7qsVGY9QZ8](https://www.aliyundrive.com/s/u7qsVGY9QZ8) |          |
 
 ## 唯美治愈系
 
