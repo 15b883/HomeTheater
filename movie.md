@@ -74,7 +74,7 @@
 | 蝙蝠侠大战超人-正义黎明 4K | [https://www.aliyundrive.com/s/FNRjXdkUogp](https://www.aliyundrive.com/s/FNRjXdkUogp) | 85.14 GB |
 | 新蝙蝠侠 2022              | [https://www.aliyundrive.com/s/9B97myBYxd1](https://www.aliyundrive.com/s/9B97myBYxd1) | 31.31 GB |
 | 海王 4K原盘REMUX           | [https://www.aliyundrive.com/s/GDAGMXyZFXy ](https://www.aliyundrive.com/s/GDAGMXyZFXy ) | 56.42 GB |
-| 海王 4K原盘REMUX           | [https://www.aliyundrive.com/s/XXkY1ZFn4g9 ](https://www.aliyundrive.com/s/XXkY1ZFn4g9 ) | 57.41 GB |
+| 黑亚当           | [https://www.aliyundrive.com/s/XXkY1ZFn4g9 ](https://www.aliyundrive.com/s/XXkY1ZFn4g9 ) | 57.41 GB |
 
 ## 科幻系列
 
