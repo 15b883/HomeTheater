@@ -226,7 +226,8 @@ main {
 }
 
 main.hidden {
-	display: none
+	display: 
+	none
 }
 
 .anchor {
@@ -352,9 +353,9 @@ main.hidden {
 	list-style-type: none
 }
 
-body.close .sidebar {
-	transform: translateX(-300px)
-}
+
+
+
 
 
 body.close .content {
@@ -496,48 +497,6 @@ section.cover blockquote>p>a:hover {
 	color: var(--theme-color,#42b983)
 }
 
-.sidebar,body {
-	background-color: #fff
-}
-
-.sidebar {
-	color: #364149
-}
-
-.sidebar li {
-	margin: 6px 0
-}
-
-.sidebar ul li a {
-	color: #505d6b;
-	font-size: 14px;
-	font-weight: 400;
-	overflow: hidden;
-	text-decoration: none;
-	text-overflow: ellipsis;
-	white-space: nowrap
-}
-
-.sidebar ul li a:hover {
-	text-decoration: underline
-}
-
-.sidebar ul li ul {
-	padding: 0
-}
-
-.sidebar ul li.active>a {
-	border-right: 2px solid;
-	color: #42b983;
-	color: var(--theme-color,#42b983);
-	font-weight: 600
-}
-
-.app-sub-sidebar li:before {
-	content: "-";
-	padding-right: 4px;
-	float: left
-}
 
 .markdown-section h1,.markdown-section h2,.markdown-section h3,.markdown-section h4,.markdown-section strong {
 	color: #2c3e50;
@@ -577,7 +536,6 @@ section.cover blockquote>p>a:hover {
 	color: #777;
 	font-size: 1rem
 }
-
 .markdown-section figure,.markdown-section p {
 	margin: 1.2em 0
 }
