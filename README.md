@@ -138,6 +138,7 @@ Mac 建议使用播放器（阿里云盘不能分享dmg文件）
 | 蚁人 4K REMUX           | [https://www.aliyundrive.com/s/TQNaRmX4Css](https://www.aliyundrive.com/s/TQNaRmX4Css) | 56.48 GB |
 | 蚁人2 4K REMUX          | [https://www.aliyundrive.com/s/cLyzUsmayT6](https://www.aliyundrive.com/s/cLyzUsmayT6) | 48.39 GB |
 | 黑豹 4K REMUX           | [https://www.aliyundrive.com/s/Goo7ZqQJ8Ss](https://www.aliyundrive.com/s/Goo7ZqQJ8Ss) | 55.53 GB |
+| 黑豹2 4K                | magnet:?xt=urn:btih:b354cef90052fbbbf56f2a4856a7c1e91fc944c2 | 60.01 GB |
 | 尚气与十环传奇 4K REMUX | [https://www.aliyundrive.com/s/i1q7fXzb964](https://www.aliyundrive.com/s/i1q7fXzb964) | 58.67 GB |
 | 永恒族 REMUX            | [https://www.aliyundrive.com/s/55mvqL9evc7](https://www.aliyundrive.com/s/55mvqL9evc7) | 49.98 GB |
 | 黑寡妇 4K REMUX         | [https://www.aliyundrive.com/s/2bf7KSw5pAD](https://www.aliyundrive.com/s/2bf7KSw5pAD) | 55.88 GB |
@@ -186,14 +187,14 @@ Mac 建议使用播放器（阿里云盘不能分享dmg文件）
 
 ### 终结者
 
-| 名称                | 链接 | 大小 |
-| ------------------- | ---- | ---- |
-| 终结者1：魔鬼终结者 |      |      |
-| 终结者2：审判日     |      |      |
-| 终结者3：机器的觉醒 |      |      |
-| 终结者4：救世军     |      |      |
-| 终结者5：创世纪     |      |      |
-| 终结者6：黑暗命运   |      |      |
+| 名称                | 链接                                                         | 大小 |
+| ------------------- | ------------------------------------------------------------ | ---- |
+| 终结者1：魔鬼终结者 | [https://www.aliyundrive.com/s/Bgf88e21NPn](https://www.aliyundrive.com/s/Bgf88e21NPn) |      |
+| 终结者2：审判日     | [https://www.aliyundrive.com/s/2eTEbXW9DyX](https://www.aliyundrive.com/s/2eTEbXW9DyX) |      |
+| 终结者3：机器的觉醒 | [https://www.aliyundrive.com/s/iyHrCbzdqkj](https://www.aliyundrive.com/s/iyHrCbzdqkj) |      |
+| 终结者4：救世军     | [https://www.aliyundrive.com/s/6gBKGGFftaV](https://www.aliyundrive.com/s/6gBKGGFftaV) |      |
+| 终结者5：创世纪     | [https://www.aliyundrive.com/s/8cjgxfqzVQj](https://www.aliyundrive.com/s/8cjgxfqzVQj) |      |
+| 终结者6：黑暗命运   | [https://www.aliyundrive.com/s/r5tp1gSH9g1](https://www.aliyundrive.com/s/r5tp1gSH9g1) |      |
 
 
 
