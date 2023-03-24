@@ -62,7 +62,7 @@ Mac 建议使用播放器（阿里云盘不能分享dmg文件）
 - [怪兽系列](#%E6%80%AA%E5%85%BD%E7%B3%BB%E5%88%97)
 - [动漫系列](#%E5%8A%A8%E6%BC%AB%E7%B3%BB%E5%88%97)
   - [宫崎骏](#%E5%AE%AB%E5%B4%8E%E9%AA%8F)
-- [纪录片系列](#%E7%BA%AA%E5%BD%95%E7%89%87%E7%B3%BB%E5%88%97)
+- [侏罗纪系列](#%E4%BE%8F%E7%BD%97%E7%BA%AA%E7%B3%BB%E5%88%97)
 - [经典系列](#%E7%BB%8F%E5%85%B8%E7%B3%BB%E5%88%97)
 - [国产系列](#%E5%9B%BD%E4%BA%A7%E7%B3%BB%E5%88%97)
   - [古装剧](#%E5%8F%A4%E8%A3%85%E5%89%A7)
@@ -174,6 +174,10 @@ Mac 建议使用播放器（阿里云盘不能分享dmg文件）
 | 火星救援                   | [https://www.aliyundrive.com/s/Sjy56t4JjoS](https://www.aliyundrive.com/s/Sjy56t4JjoS) | 53.47 GB  |
 | 阿凡达 4K REMUX            | [https://www.aliyundrive.com/s/3Yr29zhPXAM](https://www.aliyundrive.com/s/3Yr29zhPXAM) | 101.95 GB |
 | 明日边缘                   | [https://www.aliyundrive.com/s/g74pNr6HaCC](https://www.aliyundrive.com/s/g74pNr6HaCC) | 78.11 GB  |
+| 星河战队                   | [https://www.aliyundrive.com/s/UcetBtvauoj](https://www.aliyundrive.com/s/UcetBtvauoj) | 72.81 GB  |
+| 毒液1 4K REMUX(原盘 蓝光)  | [https://www.aliyundrive.com/s/xuWecGTiF84](https://www.aliyundrive.com/s/xuWecGTiF84) | 53.02 GB  |
+| 毒液2 4K REMUX(原盘 蓝光)  | [https://www.aliyundrive.com/s/BACwhNW6vip](https://www.aliyundrive.com/s/BACwhNW6vip) | 50.02 GB  |
+| 创：战纪                   | [https://www.aliyundrive.com/s/dQi4EjK7RRU](https://www.aliyundrive.com/s/dQi4EjK7RRU) (没找到更大的资源) | 24.11 GB  |
 
 ### 变形金刚
 
@@ -284,25 +288,16 @@ Mac 建议使用播放器（阿里云盘不能分享dmg文件）
 | 红猪           | [https://www.aliyundrive.com/s/gAaPfTiY9fg](https://www.aliyundrive.com/s/gAaPfTiY9fg) |           |
 | 哈尔的移动城堡 | [https://www.aliyundrive.com/s/Z1RybUGgSvt](https://www.aliyundrive.com/s/Z1RybUGgSvt) |           |
 
-## 纪录片系列
+## 侏罗纪系列
 
-| 名称                                   | 链接                                                         | 大小 |
-| -------------------------------------- | ------------------------------------------------------------ | ---- |
-| 七个世界，一个星球                     | [https://www.aliyundrive.com/s/LvyRJNeTf4w](https://www.aliyundrive.com/s/LvyRJNeTf4w) |      |
-| 蓝色星球2                              | https://www.aliyundrive.com/s/Kb2HBpZ6NzE                    |      |
-| 地球脉动Ⅱ                              | [https://www.aliyundrive.com/s/QjkT8G9vREQ](https://www.aliyundrive.com/s/QjkT8G9vREQ) |      |
-| 天启：第一次世界大战                   | [https://www.aliyundrive.com/s/MbMuVRbny7k](https://www.aliyundrive.com/s/MbMuVRbny7k) |      |
-| 天启：希特勒的崛起                     | [https://www.aliyundrive.com/s/nasDVvJrQpv](https://www.aliyundrive.com/s/nasDVvJrQpv) |      |
-| 流行病如何预防流感大爆发               | [https://www.aliyundrive.com/s/3oAAiEbwuGN](https://www.aliyundrive.com/s/3oAAiEbwuGN) |      |
-| 猎杀本·拉登                            | [https://www.aliyundrive.com/s/f4FAWqpZjwV](https://www.aliyundrive.com/s/f4FAWqpZjwV) |      |
-| 美国金融史                             | [https://www.aliyundrive.com/s/MNB9aNadaEZ](https://www.aliyundrive.com/s/MNB9aNadaEZ) |      |
-| 一代财富                               | [https://www.aliyundrive.com/s/YkpY5FxWRoB](https://www.aliyundrive.com/s/YkpY5FxWRoB) |      |
-| 买进名校：美国大学舞弊风暴             | [https://www.aliyundrive.com/s/1sM51Uoeing](https://www.aliyundrive.com/s/1sM51Uoeing) |      |
-| 尖端医疗的真相                         | [https://www.aliyundrive.com/s/uDcEmAs1M1Q](https://www.aliyundrive.com/s/uDcEmAs1M1Q) |      |
-| 滋生欲望的资本主义2018 ...力量觉醒之时 | [https://www.aliyundrive.com/s/soYQskStdfz](https://www.aliyundrive.com/s/soYQskStdfz) |      |
-| 黑客如何改变世界                       | [https://www.aliyundrive.com/s/Ek2Mk59SVWL ](https://www.aliyundrive.com/s/Ek2Mk59SVWL ) |      |
-| 冰冻星球                               | [https://www.aliyundrive.com/s/SdHusgsJJ2p](https://www.aliyundrive.com/s/SdHusgsJJ2p) |      |
-| 克里斯·海姆斯沃斯 - 极限挑战           | [https://www.aliyundrive.com/s/HQYDuvJwRPd](https://www.aliyundrive.com/s/HQYDuvJwRPd) |      |
+| 名称        | 链接                                                         | 大小     |
+| ----------- | ------------------------------------------------------------ | -------- |
+| 侏罗纪公园1 | [https://www.aliyundrive.com/s/1HVDjDKppwW](https://www.aliyundrive.com/s/1HVDjDKppwW) | 52.38 GB |
+| 侏罗纪公园2 | [https://www.aliyundrive.com/s/3a3DW4o7Thb](https://www.aliyundrive.com/s/3a3DW4o7Thb) | 54.13 GB |
+| 侏罗纪公园3 | [https://www.aliyundrive.com/s/fX7Z4RUyv6U](https://www.aliyundrive.com/s/fX7Z4RUyv6U) (不知道为啥这部分享不出来) | 52.88 GB |
+| 侏罗纪世界1 | [https://www.aliyundrive.com/s/Y362JKyMLJt](https://www.aliyundrive.com/s/Y362JKyMLJt) | 52.92 GB |
+| 侏罗纪世界2 | [https://www.aliyundrive.com/s/iVuHFkNwUdB](https://www.aliyundrive.com/s/iVuHFkNwUdB) | 51.78 GB |
+| 侏罗纪世界3 | [https://www.aliyundrive.com/s/4MdA3q6dRfb](https://www.aliyundrive.com/s/4MdA3q6dRfb) | 74.93 GB |
 
 ## 经典系列
 
