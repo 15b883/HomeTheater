@@ -224,6 +224,7 @@ Mac 建议使用播放器（阿里云盘不能分享dmg文件）
 | 生化危机6：终章 4K REMUX     | [https://www.aliyundrive.com/s/cr8mc2Bx7zW](https://www.aliyundrive.com/s/cr8mc2Bx7zW) | 52.6 GB  |
 | 我是传奇 4K REMUX            | [https://www.aliyundrive.com/s/2HSVqrDKNcz](https://www.aliyundrive.com/s/2HSVqrDKNcz) | 50.47 GB |
 | 血族1-4季                    | [https://www.aliyundrive.com/s/G5Zwo938zAD](https://www.aliyundrive.com/s/G5Zwo938zAD) | 完结     |
+| 2022 丧尸                   | [https://www.aliyundrive.com/s/8yzdNYeuYmt](https://www.aliyundrive.com/s/8yzdNYeuYmt) | 8集完结     |
 
 ## 灾难系列
 
