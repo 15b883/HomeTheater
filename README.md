@@ -14,6 +14,8 @@
 
 remux：正片视频+主要音轨
 
+[个人家庭影院玩法](./home-video.md)
+
 ### 字幕
 
 ass、ssa扩展名的是特效字幕，带有颜色、大小等特效
@@ -26,13 +28,11 @@ srt字幕无特效，均可用记事本打开、编辑。
 
 **请到官网下载软件**
 
-Windows建议使用播放器
+Windows 建议使用播放器（PotPlayer）
 
 官方网站：http://potplayer.tv/
 
-PotPlayer [https://www.aliyundrive.com/s/iUDWXv24Xm5 ](https://www.aliyundrive.com/s/iUDWXv24Xm5)
-
-Mac 建议使用播放器（阿里云盘不能分享dmg文件）
+Mac 建议使用播放器（IINA）
 
 官方网站：https://www.iina.io/ 
 
@@ -54,6 +54,8 @@ Mac 建议使用播放器（阿里云盘不能分享dmg文件）
 - [科幻系列](#%E7%A7%91%E5%B9%BB%E7%B3%BB%E5%88%97)
   - [变形金刚](#%E5%8F%98%E5%BD%A2%E9%87%91%E5%88%9A)
   - [终结者](#%E7%BB%88%E7%BB%93%E8%80%85)
+- [动作片系列](#%E5%8A%A8%E4%BD%9C%E7%89%87%E7%B3%BB%E5%88%97)
+  - [谍影重重](#%E8%B0%8D%E5%BD%B1%E9%87%8D%E9%87%8D)
 - [魔幻系列](#%E9%AD%94%E5%B9%BB%E7%B3%BB%E5%88%97)
 - [丧尸系列](#%E4%B8%A7%E5%B0%B8%E7%B3%BB%E5%88%97)
 - [灾难系列](#%E7%81%BE%E9%9A%BE%E7%B3%BB%E5%88%97)
@@ -171,7 +173,8 @@ Mac 建议使用播放器（阿里云盘不能分享dmg文件）
 | 失控玩家                   | [https://www.aliyundrive.com/s/kAerrEER7rP](https://www.aliyundrive.com/s/kAerrEER7rP) | 50.27 GB  |
 | 头号玩家                   | [https://www.aliyundrive.com/s/oT3Sb9QW92L](https://www.aliyundrive.com/s/oT3Sb9QW92L) | 78.22 GB  |
 | 火星救援                   | [https://www.aliyundrive.com/s/Sjy56t4JjoS](https://www.aliyundrive.com/s/Sjy56t4JjoS) | 53.47 GB  |
-| 阿凡达 4K REMUX            | [https://www.aliyundrive.com/s/3Yr29zhPXAM](https://www.aliyundrive.com/s/3Yr29zhPXAM) | 101.95 GB |
+| 阿凡达1                    | [https://www.aliyundrive.com/s/3Yr29zhPXAM](https://www.aliyundrive.com/s/3Yr29zhPXAM) | 101.95 GB |
+| 阿凡达2：水之道            | [https://www.aliyundrive.com/s/va3JUZSg3w2](https://www.aliyundrive.com/s/va3JUZSg3w2) | 77.46 GB  |
 | 明日边缘                   | [https://www.aliyundrive.com/s/g74pNr6HaCC](https://www.aliyundrive.com/s/g74pNr6HaCC) | 78.11 GB  |
 | 星河战队                   | [https://www.aliyundrive.com/s/UcetBtvauoj](https://www.aliyundrive.com/s/UcetBtvauoj) | 72.81 GB  |
 | 毒液1 4K REMUX(原盘 蓝光)  | [https://www.aliyundrive.com/s/xuWecGTiF84](https://www.aliyundrive.com/s/xuWecGTiF84) | 53.02 GB  |
@@ -201,7 +204,17 @@ Mac 建议使用播放器（阿里云盘不能分享dmg文件）
 | 终结者5：创世纪     | [https://www.aliyundrive.com/s/8cjgxfqzVQj](https://www.aliyundrive.com/s/8cjgxfqzVQj) |      |
 | 终结者6：黑暗命运   | [https://www.aliyundrive.com/s/r5tp1gSH9g1](https://www.aliyundrive.com/s/r5tp1gSH9g1) |      |
 
+## 动作片系列
 
+### 谍影重重
+
+| 名称      | 链接                                                         | 大小     |
+| --------- | ------------------------------------------------------------ | -------- |
+| 谍影重重1 | [https://www.aliyundrive.com/s/Kyw2gaGP2Wz](https://www.aliyundrive.com/s/Kyw2gaGP2Wz) | 53.31 GB |
+| 谍影重重2 | [https://www.aliyundrive.com/s/bRHuJQLrgAa](https://www.aliyundrive.com/s/bRHuJQLrgAa) | 56.63 GB |
+| 谍影重重3 | [https://www.aliyundrive.com/s/kvudAX2oo8a](https://www.aliyundrive.com/s/kvudAX2oo8a) | 55.54 GB |
+| 谍影重重4 | [https://www.aliyundrive.com/s/hNRNFgwpVVG](https://www.aliyundrive.com/s/hNRNFgwpVVG) | 56.33 GB |
+| 谍影重重5 | [https://www.aliyundrive.com/s/8VF3iMat4cK](https://www.aliyundrive.com/s/8VF3iMat4cK) | 58.37 GB |
 
 ## 魔幻系列
 
