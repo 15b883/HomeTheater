@@ -231,7 +231,7 @@ layout: default
     }  );
   </script>
 
-    <script type="text/javascript">
+  <script type="text/javascript">
     $(document).ready(function() {
       $('#transformers').DataTable({
         "paging": false,
@@ -239,7 +239,7 @@ layout: default
     }  );
   </script>
 
-   <script type="text/javascript">
+  <script type="text/javascript">
     $(document).ready(function() {
       $('#the-bourne-identity').DataTable({
         "paging": false,
@@ -247,7 +247,7 @@ layout: default
     }  );
   </script>
 
-    <script type="text/javascript">
+  <script type="text/javascript">
     $(document).ready(function() {
       $('#zombie').DataTable({
         "paging": false,
@@ -255,7 +255,7 @@ layout: default
     }  );
   </script>
 
-    <script type="text/javascript">
+  <script type="text/javascript">
     $(document).ready(function() {
       $('#war').DataTable({
         "paging": false,
@@ -263,7 +263,7 @@ layout: default
     }  );
   </script>
 
-    <script type="text/javascript">
+  <script type="text/javascript">
     $(document).ready(function() {
       $('#monster').DataTable({
         "paging": false,
@@ -271,7 +271,7 @@ layout: default
     }  );
   </script>
 
-    <script type="text/javascript">
+  <script type="text/javascript">
     $(document).ready(function() {
       $('#jurassic').DataTable({
         "paging": false,
@@ -279,7 +279,7 @@ layout: default
     }  );
   </script>
 
-      <script type="text/javascript">
+   <script type="text/javascript">
     $(document).ready(function() {
       $('#crime').DataTable({
         "paging": false,
@@ -287,7 +287,7 @@ layout: default
     }  );
   </script>
 
-      <script type="text/javascript">
+   <script type="text/javascript">
     $(document).ready(function() {
       $('#aesthetically-healing').DataTable({
         "paging": false,
