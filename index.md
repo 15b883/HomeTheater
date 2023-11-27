@@ -10,7 +10,7 @@ layout: default
 
 编号|名字|资源链接|资源大小|状态
 ---|---|---|---|---
-1|蜘蛛侠1 4K REMUX|[https://www.aliyundrive.com/s/D9ErBeSnMjw](https://www.aliyundrive.com/s/D9ErBeSnMjw)|54.49 GB|
+1|蜘蛛侠1 4K REMUX|[https://www.aliyundrive.com/s/D9ErBeSnMjw](https://www.aliyundrive.com/s/D9ErBeSnMjw)|54.49 GB|xxx
 2|蜘蛛侠2 4K REMUX|[https://www.aliyundrive.com/s/MoqJurBjkuP](https://www.aliyundrive.com/s/MoqJurBjkuP)|53.5 GB|
 3|蜘蛛侠3 4K REMUX|[https://www.aliyundrive.com/s/uAYJLYoMunF](https://www.aliyundrive.com/s/uAYJLYoMunF)|72.62 GB|
 4|蜘蛛侠：英雄归来 4K REMUX|[https://www.aliyundrive.com/s/QAsEAz44WTn](https://www.aliyundrive.com/s/QAsEAz44WTn)|57.18 GB|
@@ -44,7 +44,7 @@ layout: default
 32|永恒族 REMUX|[https://www.aliyundrive.com/s/55mvqL9evc7](https://www.aliyundrive.com/s/55mvqL9evc7)|49.98 GB|
 33|黑寡妇 4K REMUX|[https://www.aliyundrive.com/s/2bf7KSw5pAD](https://www.aliyundrive.com/s/2bf7KSw5pAD)|55.88 GB|
 34|奇异博士 4K REMUX|[https://www.aliyundrive.com/s/9HrHE6UQcyC](https://www.aliyundrive.com/s/9HrHE6UQcyC)|55.03 GB|
-{: #marvel .display}||||
+{: #marvel .display}
 
 ## 华纳DC
 
