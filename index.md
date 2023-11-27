@@ -57,7 +57,7 @@ layout: default
  5                   | 新蝙蝠侠 2022              | [https://www.aliyundrive.com/s/9B97myBYxd1](https://www.aliyundrive.com/s/9B97myBYxd1) | 31.31 GB |      
  6                   | 海王 4K原盘REMUX           | [https://www.aliyundrive.com/s/GDAGMXyZFXy ](https://www.aliyundrive.com/s/GDAGMXyZFXy ) | 56.42 GB |      
  7                   | 黑亚当                     | [https://www.aliyundrive.com/s/XXkY1ZFn4g9 ](https://www.aliyundrive.com/s/XXkY1ZFn4g9 ) | 57.41 GB |      
-{: #dc .display}||||
+{: #dc .display}
 
 ## 科幻
 
@@ -82,7 +82,7 @@ layout: default
 17|毒液1 4K REMUX(原盘 蓝光)|[https://www.aliyundrive.com/s/xuWecGTiF84](https://www.aliyundrive.com/s/xuWecGTiF84)|53.02 GB|
 18|毒液2 4K REMUX(原盘 蓝光)|[https://www.aliyundrive.com/s/BACwhNW6vip](https://www.aliyundrive.com/s/BACwhNW6vip)|50.02 GB|
 19|创：战纪|[https://www.aliyundrive.com/s/dQi4EjK7RRU](https://www.aliyundrive.com/s/dQi4EjK7RRU) (没找到更大的资源)|24.11 GB|
-{: #sci-fi-film .display}||||
+{: #sci-fi-film .display}
 
 ## 变形金刚
 
@@ -95,7 +95,7 @@ layout: default
 | 5                  | 变形金刚5：最后的骑士  | [https://www.aliyundrive.com/s/ee7CcoZunUK](https://www.aliyundrive.com/s/ee7CcoZunUK) | 81.86 GB |      |
 | 6                  | 大黄蜂                 | [https://www.aliyundrive.com/s/hRwKgptj2EU](https://www.aliyundrive.com/s/hRwKgptj2EU) | 57.57 GB |      |
 | 7                  | 变形金刚：超能勇士崛起 | [https://www.aliyundrive.com/s/Rdwe4c7i8bQ](https://www.aliyundrive.com/s/Rdwe4c7i8bQ) | 66.04 GB |      |
-| {: #transformers .display} |                        |                                                              |          |      |
+{: #transformers .display}
 
 ## 魔幻
 
@@ -107,7 +107,7 @@ layout: default
 | 4                  | 指环王1：护戒使者 4K REMUX     | [https://www.aliyundrive.com/s/NHTraemidP3](https://www.aliyundrive.com/s/NHTraemidP3) | 113.95 GB |      |
 | 5                  | 指环王2：双塔奇兵 4K REMUX     | [https://www.aliyundrive.com/s/YcvHUzRR8LJ](https://www.aliyundrive.com/s/YcvHUzRR8LJ) | 108.24 GB |      |
 | 6                  | 指环王3：王者无敌 4K REMUX     | [https://www.aliyundrive.com/s/q8KYPT9K9UQ](https://www.aliyundrive.com/s/q8KYPT9K9UQ) | 127.07 GB |      |
-| {: #book .display} |                                |                                                              |           |      |
+{: #book .display}
 
 ## 谍影重重
 
@@ -118,7 +118,7 @@ layout: default
 | 3                  | 谍影重重3 | [https://www.aliyundrive.com/s/kvudAX2oo8a](https://www.aliyundrive.com/s/kvudAX2oo8a) | 55.54 GB |      |
 | 4                  | 谍影重重4 | [https://www.aliyundrive.com/s/hNRNFgwpVVG](https://www.aliyundrive.com/s/hNRNFgwpVVG) | 56.33 GB |      |
 | 5                  | 谍影重重5 | [https://www.aliyundrive.com/s/8VF3iMat4cK](https://www.aliyundrive.com/s/8VF3iMat4cK) | 58.37 GB |      |
-| {: #the-bourne-identity .display} |           |                                                              |          |      |
+{: #the-bourne-identity .display} 
 
 ## 丧尸
 
@@ -133,7 +133,7 @@ layout: default
 | 7                  | 我是传奇 4K REMUX            | [https://www.aliyundrive.com/s/2HSVqrDKNcz](https://www.aliyundrive.com/s/2HSVqrDKNcz) | 50.47 GB |      |
 | 8                  | 血族1-4季                    | [https://www.aliyundrive.com/s/G5Zwo938zAD](https://www.aliyundrive.com/s/G5Zwo938zAD) | 完结     |      |
 | 9                  | 2022 丧尸                    | [https://www.aliyundrive.com/s/8yzdNYeuYmt](https://www.aliyundrive.com/s/8yzdNYeuYmt) | 8集完结  |      |
-| {: #zombie .display} |                              |                                                              |          |      |
+{: #zombie .display}
 
 ## 战争
 
@@ -146,7 +146,7 @@ layout: default
 | 5                  | 冒牌上尉 4K REMUX     | [https://www.aliyundrive.com/s/zJdNZgVHpuM](https://www.aliyundrive.com/s/zJdNZgVHpuM) | 52.92 GB |      |
 | 6                  | 大逃亡 1963 4K REMUX  | [https://www.aliyundrive.com/s/u7JS4jxEVjf](https://www.aliyundrive.com/s/u7JS4jxEVjf) | 79.29 GB |      |
 | 7                  | 珍珠港 4K REMUX       | [https://www.aliyundrive.com/s/LKFjQwg2vuc](https://www.aliyundrive.com/s/LKFjQwg2vuc) | 38.86 GB |      |
-| {: #war .display} |                       |                                                              |          |      |
+{: #war .display}
 
 ## 怪兽
 
@@ -156,7 +156,7 @@ layout: default
 | 2                  | 金刚：骷髅岛4K    | [https://www.aliyundrive.com/s/fdmAQuQtQNd](https://www.aliyundrive.com/s/fdmAQuQtQNd) | 56.78 GB |      |
 | 3                  | 哥斯拉2：怪兽之王 | [https://www.aliyundrive.com/s/bEUuoJjta2a](https://www.aliyundrive.com/s/bEUuoJjta2a) | 55.47 GB |      |
 | 4                  | 哥斯拉2014        | [https://www.aliyundrive.com/s/kZvLsePYzBr](https://www.aliyundrive.com/s/kZvLsePYzBr) | 68.37 GB |      |
-| {: #monster .display} |                   |                                                              |          |      |
+{: #monster .display}
 
 ## 侏罗纪
 
@@ -168,7 +168,7 @@ layout: default
 | 4                  | 侏罗纪世界1 | [https://www.aliyundrive.com/s/Y362JKyMLJt](https://www.aliyundrive.com/s/Y362JKyMLJt) | 52.92 GB |      |
 | 5                  | 侏罗纪世界2 | [https://www.aliyundrive.com/s/iVuHFkNwUdB](https://www.aliyundrive.com/s/iVuHFkNwUdB) | 51.78 GB |      |
 | 6                  | 侏罗纪世界3 | [https://www.aliyundrive.com/s/4MdA3q6dRfb](https://www.aliyundrive.com/s/4MdA3q6dRfb) | 74.93 GB |      |
-| {: #jurassic .display} |             |                                                              |          |      |
+{: #jurassic .display}
 
 ## 犯罪
 
@@ -189,7 +189,7 @@ layout: default
 | 13                 | 无间道3：终极无间 (2003)     | [https://www.aliyundrive.com/s/cis6u9tBLyj](https://www.aliyundrive.com/s/cis6u9tBLyj) |          |      |
 | 14                 | 生死狙击                     | [https://www.aliyundrive.com/s/Q6FphSj5HL4](https://www.aliyundrive.com/s/Q6FphSj5HL4) |          |      |
 | 15                 | 冰路营救                     | [https://www.aliyundrive.com/s/u7qsVGY9QZ8](https://www.aliyundrive.com/s/u7qsVGY9QZ8) |          |      |
-| {: #crime .display} |                              |                                                              |          |      |
+{: #crime .display}
 
 ## 唯美治愈
 
@@ -198,7 +198,7 @@ layout: default
 | 1                  | 海蒂和爷爷    | https://www.aliyundrive.com/s/kuieBywbyix |          | 强烈推荐❗️ |
 | 2                  | 小森林-夏秋篇 | https://www.aliyundrive.com/s/qgYnQZAd8cq |          |           |
 | 3                  | 小森林-冬春篇 | https://www.aliyundrive.com/s/3X818T3ykQA |          |           |
-| {: #aesthetically-healing .display} |               |                                           |          |           |
+{: #aesthetically-healing .display} 
 
 
 
