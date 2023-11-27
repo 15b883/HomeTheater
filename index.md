@@ -107,7 +107,7 @@ layout: default
 | 4                  | 指环王1：护戒使者 4K REMUX     | [https://www.aliyundrive.com/s/NHTraemidP3](https://www.aliyundrive.com/s/NHTraemidP3) | 113.95 GB |      |
 | 5                  | 指环王2：双塔奇兵 4K REMUX     | [https://www.aliyundrive.com/s/YcvHUzRR8LJ](https://www.aliyundrive.com/s/YcvHUzRR8LJ) | 108.24 GB |      |
 | 6                  | 指环王3：王者无敌 4K REMUX     | [https://www.aliyundrive.com/s/q8KYPT9K9UQ](https://www.aliyundrive.com/s/q8KYPT9K9UQ) | 127.07 GB |      |
-{: #book .display}
+{: #magic .display}
 
 ## 谍影重重
 
@@ -234,6 +234,14 @@ layout: default
   <script type="text/javascript">
     $(document).ready(function() {
       $('#transformers').DataTable({
+        "paging": false,
+      });
+    }  );
+  </script>
+  
+ <script type="text/javascript">
+    $(document).ready(function() {
+      $('#magic').DataTable({
         "paging": false,
       });
     }  );
